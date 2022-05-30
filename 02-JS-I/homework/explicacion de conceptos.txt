@@ -1,0 +1,11 @@
+las variables son formas que tenemos los programadores para guardar el valor de algo para usarlo mas adelante. Para declarar una variable se puede usar la palabra var, let o const. 
+
+los strings son un conjunto de letras y van siempre entre comillas (simples o dobles) 
+
+las funciones son procedimientos o instrucciones que le damos al programa para que haga algo. Para utilizar una funcion se utiliza su palabra clave que es function, sigue con el nombre de la funcion (un nombre que describa lo que va a hacer la funcion), un par de parentesis y despues entre corchetes se escribe el código que ejecutaría la funcion. 
+
+Los argumentos son los valores que se pasan a la funcion cuando es invocada 
+
+return se utiliza para terminar con la ejecución de una función 
+
+el If se utiliza para evaluar una expresion condicional, la condición puede ser true o false 
