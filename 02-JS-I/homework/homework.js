@@ -194,6 +194,7 @@ function combinarNombres(nombre, apellido) {
   // Tu código: 
   var combinado = nombre + ' ' + apellido ;
   return combinado ;
+  
 }
 
 function obtenerSaludo(nombre) {
