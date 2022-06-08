@@ -1,0 +1,5 @@
+El for es un bucle que se utiliza para repetir alguna instruccion un determinado numero de veces.
+
+Los operadores logicos sirven para comparar valores booleanos.
+Cuando se comparan booleanos con el operador logico &&, los valores tienen que ser si o si todos verdaderos, en cambio con || (or), basta con que uno de los valores sea verdadero para iniciar la funcion.
+Tambien esta el not, que se utiliza con el signo ! y se utiliza para devolver el valor contrario.
